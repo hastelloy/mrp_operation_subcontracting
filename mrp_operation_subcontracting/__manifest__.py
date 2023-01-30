@@ -9,7 +9,7 @@
         """,
 
     'description': """
-        Long description of module's purpose
+        Allow to subcontract the operation (work order)
     """,
 
     'author': "HZY",
