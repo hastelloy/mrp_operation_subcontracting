@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "mrp_operation_subcontracting",
+    'name': "MRP manufacturing order subcontract operation (work order)",
 
     'summary': """
         Allow to subcontract the operation (work order) by setting the workcenter at vendor's site.
