@@ -3,8 +3,10 @@
     'name': "mrp_operation_subcontracting",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        Allow to subcontract the operation (work order) by setting the workcenter at vendor's site.
+        Purchase order to the vendor will be created with the product (service) named as "operation_name@manufacturing_order".
+        
+        """,
 
     'description': """
         Long description of module's purpose
