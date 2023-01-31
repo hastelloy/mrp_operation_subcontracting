@@ -13,7 +13,7 @@
     """,
 
     'author': "HZY",
-    'website': "",
+    'website': "https://github.com/hastelloy/mrp_operation_subcontracting/blob/16.0/",
 
     "license": "LGPL-3",
 
