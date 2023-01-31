@@ -13,7 +13,7 @@
     """,
 
     'author': "HZY",
-    'website': "https://github.com/hastelloy/mrp_operation_subcontracting",
+    'website': "https://github.com/hastelloy/mrp_operation_subcontracting/",
 
     "license": "LGPL-3",
 
